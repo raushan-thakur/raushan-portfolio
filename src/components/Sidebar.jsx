@@ -81,7 +81,7 @@ const Sidebar = ({ sidebarOpen, toggleSidebar }) => {
             </a>
           </li>
           <li className="social-item">
-            <a href="https://drive.google.com/file/d/1WvePUI8lGAh11QUD6sP-g9HKNDpKupSP/view" className="social-link" target='_blank'>
+            <a href="https://drive.google.com/file/d/1xWxma6PUn0MtYHvAxmXOt0QDiuGr2TE5/view" className="social-link" target='_blank'>
               <FaFilePdf />
             </a>
           </li>
